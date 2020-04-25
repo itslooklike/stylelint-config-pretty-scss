@@ -1,0 +1,24 @@
+{
+  "name": "stylelint-config-pretty-scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [],
+  "author": "a.masalov",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "dependencies": {
+    "stylelint-config-idiomatic-css": "^1.0.6",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-scss": "^3.17.1"
+  }
+}
