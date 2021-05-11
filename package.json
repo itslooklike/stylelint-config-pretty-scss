@@ -1,8 +1,8 @@
 {
   "name": "stylelint-config-pretty-scss",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,13 +13,13 @@
   "author": "itslooklike",
   "license": "ISC",
   "devDependencies": {
-    "prettier": "^2.0.5",
-    "stylelint": "^13.3.3"
+    "prettier": "^2.3.0",
+    "stylelint": "^13.13.1"
   },
   "dependencies": {
     "stylelint-config-htmlacademy": "^0.1.4",
     "stylelint-config-rational-order": "^0.1.2",
-    "stylelint-order": "^4.0.0",
-    "stylelint-scss": "^3.17.1"
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.19.0"
   }
 }

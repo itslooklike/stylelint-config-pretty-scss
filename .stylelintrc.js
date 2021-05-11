@@ -1,3 +1,3 @@
-const cfg = require('./src/index')
+const cfg = require('./index')
 
 module.exports = cfg
